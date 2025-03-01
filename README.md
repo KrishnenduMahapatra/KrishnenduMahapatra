@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishnendu Mahapatra</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnendumahapatra&label=Profile%20views&color=e32b2b&style=plastic" alt="krishnendumahapatra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnendumahapatra" alt="krishnendumahapatra" /></a> </p>
 
@@ -20,3 +19,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnendumahapatra&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="krishnendumahapatra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnendumahapatra&theme=dark" alt="krishnendumahapatra" /></p>
+
+<div align="center">
+  <img src="https://github.com/KrishnenduMahapatra/KrishnenduMahapatra/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+<br>
+<div>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishnendumahapatra&label=Profile%20views&color=e32b2b&style=plastic" alt="krishnendumahapatra" /> </p>
+</div>
+
+
